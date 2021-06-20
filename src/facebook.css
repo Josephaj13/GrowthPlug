@@ -1,0 +1,14 @@
+h1{
+    color: rgb(24,119,242);
+    font-size: 60px;
+}
+.col{
+    padding-top: 10%;
+    margin-left: 5%;
+}
+h3{
+    font-weight: lighter;
+}
+.col #title{
+    margin-top: 15%;
+}
